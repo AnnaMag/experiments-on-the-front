@@ -1,0 +1,12 @@
+body {
+  background: black;
+  color: white;
+}
+<style>
+    #container {
+      padding: 50px;
+      background-color: #fca1cc;
+      border: 25px solid navy;
+      box-shadow: 4px 0 2px -2px rgba(0,0,0,0.4)
+    }
+  </style>
